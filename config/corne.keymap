@@ -61,10 +61,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp F11  &kp F12  &rgb_ug RGB_ON  &rgb_ug RGB_OFF  &kp DEL    &kp PRINTSCREEN  &trans        &trans     &trans    &trans    &kp BSPC
-&kp LSHFT  &kp F6   &kp F7   &kp F8          &kp F9           &kp F10    &kp MINUS        &kp EQUAL     &kp LBKT   &kp RBKT  &kp BSLH  &kp GRAVE
-&kp LCTRL  &kp F1   &kp F2   &kp F3          &kp F4           &kp F5     &kp UNDER        &kp PLUS      &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
-                             &kp LALT        &trans           &trans     &kp SPACE        &kp LEFT_WIN  &kp ENTER
+&kp TAB    &kp F11  &kp F12  &rgb_ug RGB_ON  &rgb_ug RGB_OFF  &kp DEL    &kp PRINTSCREEN  &trans         &trans     &trans    &trans    &kp BSPC
+&kp LSHFT  &kp F6   &kp F7   &kp F8          &kp F9           &kp F10    &kp MINUS        &kp EQUAL      &kp LBKT   &kp RBKT  &kp BSLH  &kp GRAVE
+&kp LCTRL  &kp F1   &kp F2   &kp F3          &kp F4           &kp F5     &kp UNDER        &kp PLUS       &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
+                             &kp LALT        &trans           &trans     &kp SPACE        &kp RIGHT_WIN  &kp ENTER
             >;
         };
 
